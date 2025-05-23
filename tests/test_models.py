@@ -67,7 +67,7 @@ class TestProductModel(unittest.TestCase):
         db.session.remove()
 
     ######################################################################
-    #  T E S T   C A S E S
+    #  T E S T   C A S E S test 
     ######################################################################
 
     def test_create_a_product(self):
